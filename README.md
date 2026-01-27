@@ -1,4 +1,4 @@
-# Geomini
+# Geomini font
 
 ![](screenshot-2026-01-27.png)
 
