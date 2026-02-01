@@ -7,6 +7,13 @@ fonts {
   name: "Geomini"
   style: "normal"
   weight: 200
+  filename: "fonts/Geomini-ExtraLight.ttf"
+  post_script_name: "Geomini-ExtraLight"
+}
+fonts {
+  name: "Geomini"
+  style: "normal"
+  weight: 300
   filename: "fonts/Geomini-Light.ttf"
   post_script_name: "Geomini-Light"
 }
