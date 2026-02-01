@@ -1,6 +1,6 @@
 # Geomini font
 
-![](image.png)
+![](image.svg)
 
 Geomini is a geometric font.
 
