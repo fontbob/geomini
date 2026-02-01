@@ -2,9 +2,7 @@
 
 ![](image.png)
 
-Geomini is a geometric typeface font.
-
-The family is designed and produced using FontBob, a browser-based font editor.
+Geomini is a geometric font.
 
 https://fontbob.com/geomini
 
