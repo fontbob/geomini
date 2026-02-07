@@ -16,9 +16,9 @@
 Geomini is a compact geometric font suited for text, titles and interfaces.
 It balances clear letterforms with efficient spacing, making it work both small and big.
 
-<a href="http://fontbob.com/app/?remixFontId=49721a3c-9bff-48fa-82c1-d89c2054fadf" target="_blank"><img height="45px" src="https://fontbob.com/images/remix.svg" alt="Remix" /></a>
-
 <a href="https://github.com/fontbob/geomini/releases/download/2026-02-07/fonts.zip" target="_blank"><img height="45px" src="https://fontbob.com/images/download.svg" alt="Download" /></a>
+
+<a href="http://fontbob.com/app/?remixFontId=49721a3c-9bff-48fa-82c1-d89c2054fadf" target="_blank"><img height="45px" src="https://fontbob.com/images/remix.svg" alt="Remix" /></a>
 
 ![Sample Image](documentation/image1.png)
 ![Sample Image](documentation/image2.png)
