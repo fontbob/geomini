@@ -44,10 +44,9 @@ When you update your font (new version or new release), please report all notabl
 [Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver.
 Changelog example:
 
-**26 May 2021. Version 2.13**
+**7 February 2026. Version 1.000**
 
-- MAJOR Font turned to a variable font.
-- SIGNIFICANT New Stylistic sets added.
+- Initial Google Fonts submission.
 
 ## License
 
