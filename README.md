@@ -27,7 +27,7 @@ It balances clear letterforms with efficient spacing, making it work both small 
 
 This font is published by the FontBob team.
 
-FontBob is font editor focused on making type design more accessible.
+FontBob is a font editor focused on making type design more accessible.
 
 ## Building
 
