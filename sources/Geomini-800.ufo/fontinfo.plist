@@ -11,7 +11,7 @@
     <key>descender</key>
     <integer>-167</integer>
     <key>familyName</key>
-    <string>Geomini Extra Bold</string>
+    <string>Geomini</string>
     <key>openTypeHheaAscender</key>
     <integer>1033</integer>
     <key>openTypeHheaDescender</key>
@@ -37,9 +37,9 @@
     <key>openTypeOS2WinDescent</key>
     <integer>199</integer>
     <key>postscriptFontName</key>
-    <string>GeominiExtraBold-Regular</string>
+    <string>Geomini-ExtraBold</string>
     <key>styleName</key>
-    <string>Regular</string>
+    <string>ExtraBold</string>
     <key>trademark</key>
     <string></string>
     <key>unitsPerEm</key>

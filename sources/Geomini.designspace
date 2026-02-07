@@ -6,50 +6,39 @@
       <map input="800" output="800" />    </axis>
   </axes>
   <sources>
-    <source filename="Geomini-200.ufo" name="weight_200" familyname="Geomini" stylename="Weight 200">
+    <source filename="Geomini-200.ufo" name="weight_200" familyname="Geomini" stylename="ExtraLight">
       <location>
         <dimension name="Weight" xvalue="200" />
       </location>
     </source>
-    <source filename="Geomini-800.ufo" name="weight_800" familyname="Geomini" stylename="Weight 800">
+    <source filename="Geomini-800.ufo" name="weight_800" familyname="Geomini" stylename="ExtraBold">
       <location>
         <dimension name="Weight" xvalue="800" />
       </location>
     </source>
   </sources>
-  <!-- Instance filename uses .ufo so gftools writes *.ufo.json; builder still outputs Stem.ttf -->
   <instances>
-    <instance filename="Geomini-200.ufo" familyname="Geomini" stylename="200">
-      <location>
-        <dimension name="Weight" xvalue="200" />
-      </location>
-    </instance>
-    <instance filename="Geomini-800.ufo" familyname="Geomini" stylename="800">
-      <location>
-        <dimension name="Weight" xvalue="800" />
-      </location>
-    </instance>
-    <instance filename="Geomini-Geomini-Light.ufo" familyname="Geomini" stylename="Geomini Light">
+    <instance filename="Geomini-Light.ttf" familyname="Geomini" stylename="Light">
       <location>
         <dimension name="Weight" xvalue="300" />
       </location>
     </instance>
-    <instance filename="Geomini-Geomini-Regular.ufo" familyname="Geomini" stylename="Geomini Regular">
+    <instance filename="Geomini-Regular.ttf" familyname="Geomini" stylename="Regular">
       <location>
         <dimension name="Weight" xvalue="400" />
       </location>
     </instance>
-    <instance filename="Geomini-Geomini-Medium.ufo" familyname="Geomini" stylename="Geomini Medium">
+    <instance filename="Geomini-Medium.ttf" familyname="Geomini" stylename="Medium">
       <location>
         <dimension name="Weight" xvalue="500" />
       </location>
     </instance>
-    <instance filename="Geomini-Geomini-SemiBold.ufo" familyname="Geomini" stylename="Geomini SemiBold">
+    <instance filename="Geomini-SemiBold.ttf" familyname="Geomini" stylename="SemiBold">
       <location>
         <dimension name="Weight" xvalue="600" />
       </location>
     </instance>
-    <instance filename="Geomini-Geomini-Bold.ufo" familyname="Geomini" stylename="Geomini Bold">
+    <instance filename="Geomini-Bold.ttf" familyname="Geomini" stylename="Bold">
       <location>
         <dimension name="Weight" xvalue="700" />
       </location>
