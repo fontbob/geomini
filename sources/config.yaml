@@ -8,7 +8,7 @@ familyName: "Geomini"
 buildOTF: false
 
 stat:
-  Geomini-VF.ttf:
+  Geomini[wght].ttf:
   - name: Weight
     tag: wght
     values:
