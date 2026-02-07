@@ -1,8 +1,8 @@
 # Build Geomini from designspace (Geomini-200.ufo, Geomini-800.ufo)
 sources:
   - ufo/Geomini.designspace
-  - ufo/Geomini-200.ufo
-  - ufo/Geomini-800.ufo
+  - ufo/Geomini-ExtraLight.ufo
+  - ufo/Geomini-ExtraBold.ufo
 familyName: "Geomini"
 
 buildOTF: false
