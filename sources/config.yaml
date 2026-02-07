@@ -7,13 +7,12 @@ familyName: "Geomini"
 
 buildOTF: false
 
-# Skip building variable fonts until errors resolved
-# stat:
-#   Geomini[wght].ttf:
-#   - name: Weight
-#     tag: wght
-#     values:
-#     - name: Extra Light
-#       value: 200
-#     - name: Heavy
-#       value: 800
+stat:
+  Geomini[wght].ttf:
+  - name: Weight
+    tag: wght
+    values:
+    - name: Extra Light
+      value: 200
+    - name: Heavy
+      value: 800
