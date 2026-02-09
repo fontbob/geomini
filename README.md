@@ -13,8 +13,7 @@
 [Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Ffontbob.github.io%2Fgeomini%2Fbadges%2FOutlineCorrectnessChecks.json
 [Glyphset]: https://img.shields.io/endpoint?url=https%3A%2F%2Ffontbob.github.io%2Fgeomini%2Fbadges%2FGlyphsetChecks.json
 
-Geomini is a compact geometric font suited for text, titles and interfaces.
-It balances clear letterforms with efficient spacing, making it work both small and big.
+Geomini is a compact geometric font for text, titles and interfaces.
 
 <a href="http://fontbob.com/geomini" target="_blank"><img height="45px" src="https://fontbob.com/images/download.svg" alt="Download" /></a>
 
