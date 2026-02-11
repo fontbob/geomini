@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni013D" format="2">
-  <advance width="587"/>
+  <advance width="550"/>
   <unicode hex="013D"/>
-  <anchor x="293" y="589.4102025702601" name="top"/>
-  <anchor x="293" y="-167" name="bottom"/>
+  <anchor x="275" y="589.4102025702601" name="top"/>
+  <anchor x="275" y="-167" name="bottom"/>
   <outline>
     <contour>
-      <point x="386.3430926486601" y="736.7627532128251" type="line"/>
-      <point x="568.8762696265272" y="736.7627532128251" type="line"/>
-      <point x="418.12039116218284" y="409.9536419189576" type="line"/>
-      <point x="241.93939589151026" y="409.9536419189576" type="line"/>
+      <point x="357.21940140666766" y="736.7627532128251" type="line"/>
+      <point x="532.2923955411259" y="736.7627532128251" type="line"/>
+      <point x="384.72854841232794" y="459.26080460828314" type="line"/>
+      <point x="239.90588162767293" y="459.26080460828314" type="line"/>
     </contour>
     <contour>
       <point x="50.5661736933576" y="737.3147871559439" type="line"/>

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni013E" format="2">
-  <advance width="317"/>
+  <advance width="305"/>
   <unicode hex="013E"/>
-  <anchor x="158" y="727.3047239705434" name="top"/>
-  <anchor x="158" y="-145" name="bottom"/>
+  <anchor x="152" y="727.3047239705434" name="top"/>
+  <anchor x="152" y="-145" name="bottom"/>
   <outline>
     <contour>
       <point x="118.26973978928156" y="727.3047239705434" type="line"/>
@@ -24,10 +24,10 @@
       <point x="68.62505243851851" y="727.3047239705434" type="line"/>
     </contour>
     <contour>
-      <point x="254.2111148208592" y="727.3047239705434" type="line"/>
-      <point x="309.7572267793957" y="727.3047239705434" type="line"/>
-      <point x="198.10272701661182" y="489.40537804211385" type="line"/>
-      <point x="145.27240573250066" y="489.40537804211385" type="line"/>
+      <point x="247.72248215356362" y="727.3047239705434" type="line"/>
+      <point x="299.942857935084" y="727.3047239705434" type="line"/>
+      <point x="190.05428018626253" y="518.3701957566718" type="line"/>
+      <point x="145.27240573250066" y="518.3701957566718" type="line"/>
     </contour>
   </outline>
 </glyph>
