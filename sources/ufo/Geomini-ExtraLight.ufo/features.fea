@@ -1,5 +1,5 @@
 feature ccmp {
-    sub uni006A uni0301 by uni0237 uni0301;
+    sub uni006A' uni0301 by uni0237;
 } ccmp;
 
 # Language system declarations
