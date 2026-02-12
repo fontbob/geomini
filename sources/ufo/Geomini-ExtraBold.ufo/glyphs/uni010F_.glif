@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni010F" format="2">
-  <advance width="991"/>
+  <advance width="953"/>
   <unicode hex="010F"/>
-  <anchor x="495" y="589.4102025702601" name="top"/>
-  <anchor x="495" y="-167" name="bottom"/>
+  <anchor x="476" y="589.4102025702601" name="top"/>
+  <anchor x="476" y="-167" name="bottom"/>
   <outline>
     <contour>
       <point x="493.9237389925645" y="0.07739554720163708" type="line"/>
@@ -29,10 +29,10 @@
       <point x="577.4948972234704" y="509.14557213065547"/>
     </contour>
     <contour>
-      <point x="797.3380630294084" y="736.7627532128251" type="line"/>
-      <point x="979.8712400072754" y="736.7627532128251" type="line"/>
-      <point x="829.115361542931" y="409.9536419189576" type="line"/>
-      <point x="652.9343662722586" y="409.9536419189576" type="line"/>
+      <point x="770.2478860512533" y="736.7627532128251" type="line"/>
+      <point x="945.3208801857118" y="736.7627532128251" type="line"/>
+      <point x="797.7570330569135" y="459.26080460828314" type="line"/>
+      <point x="652.9343662722586" y="459.26080460828314" type="line"/>
     </contour>
     <contour>
       <point x="343.31607045688156" y="450.64248185762295" type="curve"/>

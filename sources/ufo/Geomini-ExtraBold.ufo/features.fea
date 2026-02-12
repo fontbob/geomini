@@ -286,8 +286,8 @@ feature mark {
     position base uni010D <anchor 289 -167> mark @MARK_BOTTOM;
     position base uni010E <anchor 361 736> mark @MARK_TOP;
     position base uni010E <anchor 361 -167> mark @MARK_BOTTOM;
-    position base uni010F <anchor 495 589> mark @MARK_TOP;
-    position base uni010F <anchor 495 -167> mark @MARK_BOTTOM;
+    position base uni010F <anchor 476 589> mark @MARK_TOP;
+    position base uni010F <anchor 476 -167> mark @MARK_BOTTOM;
     position base uni0110 <anchor 388 736> mark @MARK_TOP;
     position base uni0110 <anchor 388 -167> mark @MARK_BOTTOM;
     position base uni0111 <anchor 345 589> mark @MARK_TOP;
