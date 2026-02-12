@@ -4,8 +4,6 @@
   <dict>
     <key>.notdef</key>
     <string>_notdef.glif</string>
-    <key>nbspace</key>
-    <string>nbspace.glif</string>
     <key>space</key>
     <string>space.glif</string>
     <key>uni0021</key>
@@ -196,6 +194,8 @@
     <string>uni007D_.glif</string>
     <key>uni007E</key>
     <string>uni007E_.glif</string>
+    <key>uni00A0</key>
+    <string>uni00A_0.glif</string>
     <key>uni00A1</key>
     <string>uni00A_1.glif</string>
     <key>uni00A2</key>
