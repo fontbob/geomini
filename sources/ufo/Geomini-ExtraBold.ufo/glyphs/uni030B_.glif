@@ -1,14 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni030B" format="2">
-  <advance width="284"/>
+  <advance width="399"/>
   <unicode hex="030B"/>
-  <anchor x="144" y="0" name="_top"/>
+  <anchor x="178" y="589" name="_top"/>
   <outline>
     <contour>
-      <point x="97.6184954594402" y="-35.03896301729553" type="line"/>
-      <point x="233.04720616344986" y="-35.03896301729553" type="line"/>
-      <point x="167.97484627418663" y="-156.17366373423155" type="line"/>
-      <point x="50.56617369335762" y="-156.17366373423155" type="line"/>
+      <point x="133.13503744018598" y="629.7002210822541" type="line"/>
+      <point x="30.02037484643054" y="629.7002210822541" type="line"/>
+      <point x="108.1072067135463" y="761.8471673189116" type="line"/>
+      <point x="217.22854868169523" y="761.8471673189116" type="line"/>
+    </contour>
+    <contour>
+      <point x="299.3198334650734" y="629.7002210822541" type="line"/>
+      <point x="196.20517087131788" y="629.7002210822541" type="line"/>
+      <point x="274.2920027384337" y="761.8471673189116" type="line"/>
+      <point x="383.4133447065827" y="761.8471673189116" type="line"/>
     </contour>
   </outline>
 </glyph>
