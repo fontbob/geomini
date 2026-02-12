@@ -1,5 +1,5 @@
 feature ccmp {
-    lookup ccmp_j_acute { sub uni006A uni0301 by uni0237 uni0301; } ccmp_j_acute;
+    lookup ccmp_j_acute { sub uni006A uni0301 by uni0237; } ccmp_j_acute;
 } ccmp;
 
 # Language system declarations
