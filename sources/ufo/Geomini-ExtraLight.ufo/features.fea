@@ -1,9 +1,3 @@
-# ccmp: Do NOT substitute j+0301 -> uni0237; Dutch (nl_Latn) orthography
-# requires uni0301 to be attached via GPOS. The mark feature already
-# positions uni0301 on uni006A and uni004A (and uni0237 for U+0237+0301).
-feature ccmp {
-} ccmp;
-
 # Language system declarations
 languagesystem DFLT dflt;
 languagesystem latn dflt;
