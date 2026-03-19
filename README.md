@@ -1,4 +1,4 @@
-# Geomini is a compact geometric font for text, titles and interfaces
+# Geomini - Compact geometric font for text, titles and interfaces
 
 [![][Fontspector]](https://fontbob.github.io/geomini/fontspector/fontspector-report.html)
 [![][OpenType]](https://fontbob.github.io/geomini/fontspector/fontspector-report.html)
