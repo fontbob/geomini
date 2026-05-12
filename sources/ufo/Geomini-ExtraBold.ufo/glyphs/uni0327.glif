@@ -4,10 +4,10 @@
   <anchor x="117" y="0" name="_bottom"/>
   <outline>
     <contour>
-      <point x="231" y="27" type="line"/>
-      <point x="74" y="27" type="line"/>
-      <point x="-12" y="-132" type="line"/>
       <point x="133" y="-132" type="line"/>
+      <point x="-12" y="-132" type="line"/>
+      <point x="74" y="27" type="line"/>
+      <point x="231" y="27" type="line"/>
     </contour>
   </outline>
 </glyph>

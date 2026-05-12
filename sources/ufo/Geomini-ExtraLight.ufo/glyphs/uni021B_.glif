@@ -24,10 +24,10 @@
       <point x="130" y="701" type="line"/>
     </contour>
     <contour>
-      <point x="0" y="535" type="line"/>
-      <point x="343" y="535" type="line"/>
-      <point x="343" y="578" type="line"/>
       <point x="0" y="578" type="line"/>
+      <point x="343" y="578" type="line"/>
+      <point x="343" y="535" type="line"/>
+      <point x="0" y="535" type="line"/>
     </contour>
     <contour>
       <point x="217" y="-38" type="line"/>

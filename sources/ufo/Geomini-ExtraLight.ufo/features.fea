@@ -102,7 +102,7 @@ feature mark {
     position base uni0065 <anchor 465 16> mark @MARK_BOTTOM;
     position base uni0066 <anchor 183 578> mark @MARK_TOP;
     position base uni0066 <anchor 183 -145> mark @MARK_BOTTOM;
-    position base uni0067 <anchor 293 577> mark @MARK_TOP;
+    position base uni0067 <anchor 294 577> mark @MARK_TOP;
     position base uni0068 <anchor 304 578> mark @MARK_TOP;
     position base uni0068 <anchor 304 -145> mark @MARK_BOTTOM;
     position base uni0069 <anchor 103 2> mark @MARK_BOTTOM;
@@ -121,7 +121,7 @@ feature mark {
     position base uni0070 <anchor 341 -145> mark @MARK_BOTTOM;
     position base uni0071 <anchor 341 578> mark @MARK_TOP;
     position base uni0071 <anchor 341 -145> mark @MARK_BOTTOM;
-    position base uni0072 <anchor 214 577> mark @MARK_TOP;
+    position base uni0072 <anchor 203 578> mark @MARK_TOP;
     position base uni0073 <anchor 243 576> mark @MARK_TOP;
     position base uni0073 <anchor 234 -2> mark @MARK_BOTTOM;
     position base uni0074 <anchor 231 3> mark @MARK_BOTTOM;
@@ -312,8 +312,8 @@ feature mark {
     position base uni011B <anchor 304 -145> mark @MARK_BOTTOM;
     position base uni011E <anchor 365 727> mark @MARK_TOP;
     position base uni011E <anchor 365 -145> mark @MARK_BOTTOM;
-    position base uni011F <anchor 295 578> mark @MARK_TOP;
-    position base uni011F <anchor 295 -145> mark @MARK_BOTTOM;
+    position base uni011F <anchor 296 578> mark @MARK_TOP;
+    position base uni011F <anchor 296 -145> mark @MARK_BOTTOM;
     position base uni0120 <anchor 365 727> mark @MARK_TOP;
     position base uni0120 <anchor 365 -145> mark @MARK_BOTTOM;
     position base uni0121 <anchor 296 578> mark @MARK_TOP;
@@ -379,12 +379,12 @@ feature mark {
     position base uni0153 <anchor 581 -145> mark @MARK_BOTTOM;
     position base uni0154 <anchor 323 727> mark @MARK_TOP;
     position base uni0154 <anchor 323 -145> mark @MARK_BOTTOM;
-    position base uni0155 <anchor 179 578> mark @MARK_TOP;
-    position base uni0155 <anchor 179 -145> mark @MARK_BOTTOM;
+    position base uni0155 <anchor 168 578> mark @MARK_TOP;
+    position base uni0155 <anchor 168 -145> mark @MARK_BOTTOM;
     position base uni0158 <anchor 323 727> mark @MARK_TOP;
     position base uni0158 <anchor 323 -145> mark @MARK_BOTTOM;
-    position base uni0159 <anchor 179 578> mark @MARK_TOP;
-    position base uni0159 <anchor 179 -145> mark @MARK_BOTTOM;
+    position base uni0159 <anchor 168 578> mark @MARK_TOP;
+    position base uni0159 <anchor 168 -145> mark @MARK_BOTTOM;
     position base uni015A <anchor 301 727> mark @MARK_TOP;
     position base uni015A <anchor 301 -145> mark @MARK_BOTTOM;
     position base uni015B <anchor 234 578> mark @MARK_TOP;

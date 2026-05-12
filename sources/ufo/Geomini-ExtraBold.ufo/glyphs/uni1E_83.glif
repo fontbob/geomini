@@ -24,10 +24,10 @@
       <point x="436" y="360" type="line"/>
     </contour>
     <contour>
-      <point x="633" y="761" type="line"/>
-      <point x="458" y="761" type="line"/>
-      <point x="341" y="629" type="line"/>
       <point x="486" y="629" type="line"/>
+      <point x="341" y="629" type="line"/>
+      <point x="458" y="761" type="line"/>
+      <point x="633" y="761" type="line"/>
     </contour>
   </outline>
 </glyph>

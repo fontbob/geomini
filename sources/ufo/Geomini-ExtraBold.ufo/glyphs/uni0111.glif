@@ -43,10 +43,10 @@
       <point x="415.0049387639255" y="412.0832744049872"/>
     </contour>
     <contour>
-      <point x="286" y="600" type="line"/>
-      <point x="684" y="600" type="line"/>
-      <point x="684" y="716" type="line"/>
       <point x="286" y="716" type="line"/>
+      <point x="684" y="716" type="line"/>
+      <point x="684" y="600" type="line"/>
+      <point x="286" y="600" type="line"/>
     </contour>
   </outline>
 </glyph>
