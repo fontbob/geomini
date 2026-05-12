@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0326" format="2">
   <unicode hex="0326"/>
-  <anchor x="116" y="-1" name="_bottom"/>
+  <anchor x="124" y="-1" name="_bottom"/>
   <outline>
     <contour>
-      <point x="116.52928454793881" y="-41.47522664943408" type="line"/>
-      <point x="176.16620186802893" y="-41.47522664943408" type="line"/>
-      <point x="119.5577848109108" y="-151.193602528581" type="line"/>
-      <point x="68.62505243851844" y="-151.193602528581" type="line"/>
+      <point x="126" y="-41" type="line"/>
+      <point x="180" y="-41" type="line"/>
+      <point x="126" y="-151" type="line"/>
+      <point x="78" y="-151" type="line"/>
     </contour>
   </outline>
 </glyph>

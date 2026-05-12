@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni02C6" format="2">
-  <advance width="393"/>
+  <advance width="401"/>
   <unicode hex="02C6"/>
-  <anchor x="194" y="577" name="_top"/>
+  <anchor x="198" y="577" name="_top"/>
   <outline>
     <contour>
-      <point x="210.60448166749129" y="728.4873048349593" type="line"/>
-      <point x="81.34474634655005" y="629.0977078228415" type="line"/>
-      <point x="24.914734613948966" y="629.0977078228415" type="line"/>
-      <point x="180.9269326109885" y="761.368494277024" type="line"/>
-      <point x="212.94486409078718" y="761.368494277024" type="line"/>
-      <point x="367.8629337142718" y="629.0977078228415" type="line"/>
-      <point x="310.0412646139518" y="629.0977078228415" type="line"/>
-      <point x="183.2673150342844" y="728.4873048349593" type="line"/>
+      <point x="215" y="728" type="line"/>
+      <point x="86" y="629" type="line"/>
+      <point x="29" y="629" type="line"/>
+      <point x="185" y="761" type="line"/>
+      <point x="217" y="761" type="line"/>
+      <point x="372" y="629" type="line"/>
+      <point x="314" y="629" type="line"/>
+      <point x="188" y="728" type="line"/>
     </contour>
   </outline>
 </glyph>

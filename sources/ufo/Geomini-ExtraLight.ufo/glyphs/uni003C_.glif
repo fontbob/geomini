@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni003C" format="2">
-  <advance width="560"/>
+  <advance width="505"/>
   <unicode hex="003C"/>
   <outline>
     <contour>
-      <point x="523.6185300709624" y="65.27480824941405" type="line"/>
-      <point x="19.254876883404393" y="335.9255161130704" type="line"/>
-      <point x="19.254876883404393" y="376.7900239071997" type="line"/>
-      <point x="521.4230459569379" y="641.8100860203269" type="line"/>
-      <point x="541.6014862781092" y="600.9237631173495" type="line"/>
-      <point x="47.87054329824181" y="344.7929639844284" type="line"/>
-      <point x="48.034529356675954" y="369.3778842809188" type="line"/>
-      <point x="541.6014862781092" y="104.91720261124088" type="line"/>
+      <point x="469" y="65" type="line"/>
+      <point x="24" y="336" type="line"/>
+      <point x="24" y="377" type="line"/>
+      <point x="467" y="642" type="line"/>
+      <point x="467" y="593" type="line"/>
+      <point x="54" y="342" type="line"/>
+      <point x="54" y="373" type="line"/>
+      <point x="469" y="116" type="line"/>
     </contour>
   </outline>
 </glyph>

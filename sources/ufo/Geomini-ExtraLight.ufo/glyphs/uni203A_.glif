@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni203A" format="2">
-  <advance width="290"/>
+  <advance width="298"/>
   <unicode hex="203A"/>
   <outline>
     <contour>
-      <point x="71.98009520992932" y="538.7913952020749" type="line"/>
-      <point x="267.74628980757876" y="338.25970756724774" type="line"/>
-      <point x="267.74628980757876" y="304.4962372764071" type="line"/>
-      <point x="64.13984754452517" y="95.70843094877367" type="line"/>
-      <point x="8.850049007391496" y="95.70843094877367" type="line"/>
-      <point x="230.83969738923952" y="328.34534107048273" type="line"/>
-      <point x="230.70420723626998" y="313.15345132348676" type="line"/>
-      <point x="16.219148085914437" y="538.7913952020749" type="line"/>
+      <point x="70" y="96" type="line"/>
+      <point x="272" y="306" type="line"/>
+      <point x="272" y="340" type="line"/>
+      <point x="69" y="539" type="line"/>
+      <point x="13" y="539" type="line"/>
+      <point x="235" y="316" type="line"/>
+      <point x="235" y="335" type="line"/>
+      <point x="14" y="96" type="line"/>
     </contour>
   </outline>
 </glyph>

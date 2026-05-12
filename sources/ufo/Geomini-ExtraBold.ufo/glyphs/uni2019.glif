@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni2019" format="2">
-  <advance width="353"/>
+  <advance width="360"/>
   <unicode hex="2019"/>
   <outline>
     <contour>
-      <point x="157.87082761243536" y="736.7627532128248" type="line"/>
-      <point x="340.40400459030235" y="736.7627532128248" type="line"/>
-      <point x="189.64812612595787" y="409.95364191895726" type="line"/>
-      <point x="13.46713085528562" y="409.95364191895726" type="line"/>
+      <point x="162" y="737" type="line"/>
+      <point x="344" y="737" type="line"/>
+      <point x="193" y="410" type="line"/>
+      <point x="17" y="410" type="line"/>
     </contour>
   </outline>
 </glyph>

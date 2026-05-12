@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0076" format="2">
-  <advance width="568"/>
+  <advance width="575"/>
   <unicode hex="0076"/>
-  <anchor x="284" y="577.8261138372574" name="top"/>
-  <anchor x="284" y="-145" name="bottom"/>
+  <anchor x="287" y="578" name="top"/>
+  <anchor x="287" y="-145" name="bottom"/>
   <outline>
     <contour>
-      <point x="502.7835639358402" y="577.8261138372574" type="line"/>
-      <point x="554.3732524307568" y="577.8261138372574" type="line"/>
-      <point x="306.51664680151777" y="-0.4646633229338691" type="line"/>
-      <point x="269.62558151170646" y="-0.4646633229338691" type="line"/>
-      <point x="13.445617099563158" y="577.8261138372574" type="line"/>
-      <point x="68.65747938042655" y="577.8261138372574" type="line"/>
-      <point x="305.48434724628794" y="40.97423534334167" type="line"/>
-      <point x="270.318164096307" y="40.718171931761695" type="line"/>
+      <point x="506" y="578" type="line"/>
+      <point x="558" y="578" type="line"/>
+      <point x="310" y="0" type="line"/>
+      <point x="273" y="0" type="line"/>
+      <point x="17" y="578" type="line"/>
+      <point x="72" y="578" type="line"/>
+      <point x="309" y="41" type="line"/>
+      <point x="274" y="41" type="line"/>
     </contour>
   </outline>
 </glyph>

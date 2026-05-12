@@ -5,7 +5,7 @@
     <key>ascender</key>
     <integer>1055</integer>
     <key>capHeight</key>
-    <real>727.3047239705434</real>
+    <integer>727</integer>
     <key>copyright</key>
     <string>Copyright 2026 The Geomini Project Authors (https://github.com/fontbob/geomini)</string>
     <key>descender</key>
@@ -49,7 +49,7 @@
     <key>versionMinor</key>
     <integer>0</integer>
     <key>xHeight</key>
-    <real>577.8261138372574</real>
+    <integer>578</integer>
     <key>year</key>
     <integer>2026</integer>
   </dict>

@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni2014" format="2">
-  <advance width="804"/>
+  <advance width="823"/>
   <unicode hex="2014"/>
   <outline>
     <contour>
-      <point x="68.62505243851851" y="401.4673704194923" type="line"/>
-      <point x="735.7341236720622" y="401.4673704194923" type="line"/>
-      <point x="735.7341236720622" y="359.53748478988604" type="line"/>
-      <point x="68.62505243851851" y="359.53748478988604" type="line"/>
+      <point x="78" y="401" type="line"/>
+      <point x="745" y="401" type="line"/>
+      <point x="745" y="360" type="line"/>
+      <point x="78" y="360" type="line"/>
     </contour>
   </outline>
 </glyph>

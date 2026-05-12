@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0304" format="2">
   <unicode hex="0304"/>
-  <anchor x="188" y="579" name="_top"/>
+  <anchor x="197" y="579" name="_top"/>
   <outline>
     <contour>
-      <point x="303.9994955259512" y="703.138932399825" type="line"/>
-      <point x="303.9994955259512" y="655.3594943523882" type="line"/>
-      <point x="68.62505243851851" y="655.3594943523882" type="line"/>
-      <point x="68.62505243851851" y="703.138932399825" type="line"/>
+      <point x="313" y="703" type="line"/>
+      <point x="313" y="655" type="line"/>
+      <point x="78" y="655" type="line"/>
+      <point x="78" y="703" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -2,26 +2,26 @@
 <glyph name="uni1EF3" format="2">
   <advance width="609"/>
   <unicode hex="1EF3"/>
-  <anchor x="304" y="589.4102025702601" name="top"/>
+  <anchor x="304" y="589" name="top"/>
   <anchor x="304" y="-167" name="bottom"/>
   <outline>
     <contour>
-      <point x="427.8424054484227" y="589.0259065442151" type="line"/>
-      <point x="611.8232339663715" y="588.9814637338836" type="line"/>
-      <point x="321.1960709312704" y="-118.76835740677636" type="line"/>
-      <point x="147.99259241303344" y="-118.76835740677636" type="line"/>
-      <point x="253.94317082188192" y="138.73844229055084" type="line"/>
-      <point x="256.08314867754126" y="31.255732230225256" type="line"/>
-      <point x="-0.19395007610275086" y="589.832932853602" type="line"/>
-      <point x="197.86666648531022" y="589.7884900432706" type="line"/>
-      <point x="342.41823489516827" y="243.99517947840602" type="line"/>
-      <point x="299.4077077860019" y="243.12574715064417" type="line"/>
+      <point x="428" y="589" type="line"/>
+      <point x="612" y="589" type="line"/>
+      <point x="321" y="-119" type="line"/>
+      <point x="148" y="-119" type="line"/>
+      <point x="254" y="139" type="line"/>
+      <point x="256" y="31" type="line"/>
+      <point x="0" y="590" type="line"/>
+      <point x="198" y="590" type="line"/>
+      <point x="342" y="244" type="line"/>
+      <point x="299" y="243" type="line"/>
     </contour>
     <contour>
-      <point x="114.1696200709218" y="761.3049243766296" type="line"/>
-      <point x="289.24261420537994" y="761.3049243766296" type="line"/>
-      <point x="406.5561339843743" y="629.0341379224471" type="line"/>
-      <point x="261.7334671997194" y="629.0341379224471" type="line"/>
+      <point x="114" y="761" type="line"/>
+      <point x="289" y="761" type="line"/>
+      <point x="407" y="629" type="line"/>
+      <point x="262" y="629" type="line"/>
     </contour>
   </outline>
 </glyph>
