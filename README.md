@@ -17,8 +17,10 @@
 
 <a href="http://fontbob.com/geomini" target="_blank"><img height="45px" src="https://fontbob.com/images/remix.svg" alt="Remix" /></a>
 
-![Sample Image](documentation/image1.png)
-![Sample Image](documentation/image2.png)
+![Sample Image](documentation/figma/Image-1.png)
+![Sample Image](documentation/figma/Image-2.png)
+![Sample Image](documentation/figma/Image-3.png)
+![Sample Image](documentation/figma/Image-4.png)
 
 ## About
 
