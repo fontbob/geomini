@@ -4280,7 +4280,7 @@
       <key>uni006D</key>
       <integer>-38</integer>
       <key>uni006E</key>
-      <integer>-58</integer>
+      <integer>-57</integer>
       <key>uni006F</key>
       <integer>-43</integer>
       <key>uni0070</key>
@@ -5387,7 +5387,7 @@
       <key>uni006D</key>
       <integer>-31</integer>
       <key>uni006E</key>
-      <integer>-24</integer>
+      <integer>-23</integer>
       <key>uni006F</key>
       <integer>-9</integer>
       <key>uni0070</key>
@@ -6766,13 +6766,13 @@
       <key>uni003F</key>
       <integer>-10</integer>
       <key>uni0054</key>
-      <integer>-39</integer>
+      <integer>-38</integer>
       <key>uni0056</key>
       <integer>-16</integer>
       <key>uni0059</key>
       <integer>-31</integer>
       <key>uni005C</key>
-      <integer>-32</integer>
+      <integer>-33</integer>
       <key>uni0060</key>
       <integer>-21</integer>
       <key>uni00A5</key>
@@ -6790,7 +6790,7 @@
       <key>uni00CF</key>
       <integer>-16</integer>
       <key>uni00DD</key>
-      <integer>-19</integer>
+      <integer>-20</integer>
       <key>uni00EC</key>
       <integer>-1</integer>
       <key>uni00EE</key>
@@ -6808,7 +6808,7 @@
       <key>uni0178</key>
       <integer>-21</integer>
       <key>uni021A</key>
-      <integer>-35</integer>
+      <integer>-33</integer>
       <key>uni02C6</key>
       <integer>-18</integer>
       <key>uni02C7</key>
@@ -6828,7 +6828,7 @@
       <key>uni0312</key>
       <integer>-19</integer>
       <key>uni1EF2</key>
-      <integer>-19</integer>
+      <integer>-20</integer>
       <key>uni2122</key>
       <integer>-2</integer>
     </dict>
@@ -6969,7 +6969,7 @@
       <key>uni0054</key>
       <integer>-38</integer>
       <key>uni0056</key>
-      <integer>-14</integer>
+      <integer>-15</integer>
       <key>uni0059</key>
       <integer>-30</integer>
       <key>uni005C</key>
@@ -6997,11 +6997,11 @@
       <key>uni0164</key>
       <integer>-24</integer>
       <key>uni0176</key>
-      <integer>-19</integer>
+      <integer>-20</integer>
       <key>uni0178</key>
-      <integer>-19</integer>
+      <integer>-20</integer>
       <key>uni021A</key>
-      <integer>-32</integer>
+      <integer>-33</integer>
       <key>uni02C6</key>
       <integer>-32</integer>
       <key>uni02D8</key>
@@ -7024,9 +7024,9 @@
       <key>uni003F</key>
       <integer>-10</integer>
       <key>uni0054</key>
-      <integer>-58</integer>
+      <integer>-57</integer>
       <key>uni0056</key>
-      <integer>-15</integer>
+      <integer>-16</integer>
       <key>uni0059</key>
       <integer>-31</integer>
       <key>uni005C</key>
@@ -7048,7 +7048,7 @@
       <key>uni00CF</key>
       <integer>-16</integer>
       <key>uni00DD</key>
-      <integer>-19</integer>
+      <integer>-20</integer>
       <key>uni00EC</key>
       <integer>-1</integer>
       <key>uni00EE</key>
@@ -7062,11 +7062,11 @@
       <key>uni0164</key>
       <integer>-24</integer>
       <key>uni0176</key>
-      <integer>-20</integer>
+      <integer>-21</integer>
       <key>uni0178</key>
       <integer>-21</integer>
       <key>uni021A</key>
-      <integer>-58</integer>
+      <integer>-57</integer>
       <key>uni02C6</key>
       <integer>-32</integer>
       <key>uni02D8</key>
@@ -25495,9 +25495,9 @@
       <key>uni0067</key>
       <integer>-28</integer>
       <key>uni006D</key>
-      <integer>-32</integer>
+      <integer>-33</integer>
       <key>uni006E</key>
-      <integer>-58</integer>
+      <integer>-57</integer>
       <key>uni006F</key>
       <integer>-43</integer>
       <key>uni0070</key>
