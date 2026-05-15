@@ -6,7 +6,8 @@ Older Fontspector / Font Bakery profiles may complain about missing license
 records; this script adds only Name IDs 13 and 14. Copyright (Name ID 0) is
 left as produced by UFO / fontmake.
 
-Constants below must stay aligned with OFL.txt in this repo.
+Constants follow OFL semantics; Name ID 13 must be one line (Fontspector
+googlefonts/name/line_breaks rejects line breaks in name table strings).
 
 Usage (from repo root, venv active):
     python3 scripts/post_build_patch_fonts.py
@@ -26,11 +27,10 @@ FONT_GLOBS = (
     REPO_ROOT / "fonts" / "ttf",
 )
 
-# Name ID 13 — SIL preamble matching OFL.txt lines 3–5.
+# Name ID 13 — single line (googlefonts/name/line_breaks forbids newlines in name entries).
 LICENSE_DESCRIPTION = (
-    "This Font Software is licensed under the SIL Open Font License, Version 1.1.\n"
-    "This license is copied below, and is also available with a FAQ at:\n"
-    "https://openfontlicense.org"
+    "This Font Software is licensed under the SIL Open Font License, Version 1.1. "
+    "This license is available with a FAQ at: https://openfontlicense.org"
 )
 LICENSE_URL = "https://openfontlicense.org"
 
