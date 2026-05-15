@@ -10,6 +10,7 @@ help:
 	@echo
 	@echo "  make build:  Builds the fonts and places them in the fonts/ directory"
 	@echo "  make test:   Tests the fonts with fontspector"
+	@echo "  make patch-fonts:  Re-apply name table fields from OFL.txt (copyright, license ID 13/14)"
 	@echo "  make proof:  Creates HTML proof documents in the proof/ directory"
 	@echo "  make images: Creates PNG specimen images in the documentation/ directory"
 	@echo
@@ -23,7 +24,10 @@ customize: venv
 
 build.stamp: venv sources/config.yaml $(SOURCES)
 	rm -rf fonts
-	(for config in sources/config*.yaml; do . venv/bin/activate; gftools builder $$config; done)  && touch build.stamp
+	(for config in sources/config*.yaml; do . venv/bin/activate; gftools builder $$config; done) && . venv/bin/activate && python3 scripts/post_build_patch_fonts.py && touch build.stamp
+
+patch-fonts: venv
+	. venv/bin/activate && python3 scripts/post_build_patch_fonts.py
 
 venv/touchfile: requirements.txt
 	test -d venv || python3 -m venv venv
