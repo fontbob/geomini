@@ -8,7 +8,7 @@ help:
 	@echo "# Build targets for $(FAMILY)"
 	@echo "###"
 	@echo
-	@echo "  make build:  Builds the fonts and places them in the fonts/ directory"
+	@echo "  make build:  Builds the fonts under fonts/ and copies OFL.txt there for distribution"
 	@echo "  make test:   Tests the fonts with fontspector"
 	@echo "  make patch-fonts:  Re-apply name table fields from OFL.txt (copyright, license ID 13/14)"
 	@echo "  make proof:  Creates HTML proof documents in the proof/ directory"
@@ -24,7 +24,9 @@ customize: venv
 
 build.stamp: venv sources/config.yaml $(SOURCES)
 	rm -rf fonts
-	(for config in sources/config*.yaml; do . venv/bin/activate; gftools builder $$config; done) && . venv/bin/activate && python3 scripts/post_build_patch_fonts.py && touch build.stamp
+	(for config in sources/config*.yaml; do . venv/bin/activate; gftools builder $$config; done) && \
+		. venv/bin/activate && python3 scripts/post_build_patch_fonts.py && \
+		cp OFL.txt fonts/OFL.txt && touch build.stamp
 
 patch-fonts: venv
 	. venv/bin/activate && python3 scripts/post_build_patch_fonts.py
