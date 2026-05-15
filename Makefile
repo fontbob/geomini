@@ -44,7 +44,7 @@ test: build.stamp
 	TOCHECK=$$(find fonts/variable -maxdepth 1 -type f \( -name '*.ttf' -o -name '*.otf' -o -name 'OFL.txt' -o -name 'METADATA.pb' \) 2>/dev/null | sort); if [ -z "$$TOCHECK" ]; then TOCHECK=$$(find fonts/ttf -maxdepth 1 -type f \( -name '*.ttf' -o -name '*.otf' -o -name 'OFL.txt' -o -name 'METADATA.pb' \) 2>/dev/null | sort); fi; if [ -z "$$TOCHECK" ]; then echo "No font binaries found under fonts/variable or fonts/ttf." && exit 1; fi; fontspector --profile googlefonts -l warn --full-lists --succinct --html out/fontspector/fontspector-report.html --ghmarkdown out/fontspector/fontspector-report.md --badges out/badges $$TOCHECK || echo '::warning file=sources/config.yaml,title=fontspector failures::The fontspector QA check reported errors in your font. Please check the generated report.'
 
 proof: venv build.stamp
-	TOCHECK=$$(find fonts/variable -type f 2>/dev/null); if [ -z "$$TOCHECK" ]; then TOCHECK=$$(find fonts/ttf -type f 2>/dev/null); fi ; . venv/bin/activate; mkdir -p out/ out/proof; diffenator2 proof $$TOCHECK -o out/proof
+	TOCHECK=$$(find fonts/variable -maxdepth 1 -type f \( -name '*.ttf' -o -name '*.otf' \) 2>/dev/null | sort); if [ -z "$$TOCHECK" ]; then TOCHECK=$$(find fonts/ttf -maxdepth 1 -type f \( -name '*.ttf' -o -name '*.otf' \) 2>/dev/null | sort); fi; if [ -z "$$TOCHECK" ]; then echo "No font binaries found under fonts/variable or fonts/ttf." && exit 1; fi; . venv/bin/activate; mkdir -p out/ out/proof; diffenator2 proof $$TOCHECK -o out/proof
 
 images: venv $(DRAWBOT_OUTPUT)
 
