@@ -17,7 +17,7 @@
 
 <a href="http://fontbob.com/geomini" target="_blank"><img height="45px" src="https://fontbob.com/images/download.svg" alt="Download" /></a>
 
-<a href="http://fontbob.com/geomini" target="_blank"><img height="45px" src="https://fontbob.com/images/remix.svg" alt="Remix" /></a>
+<a href="https://fontbob.com/app/?remixFontId=49721a3c-9bff-48fa-82c1-d89c2054fadf" target="_blank"><img height="45px" src="https://fontbob.com/images/remix.svg" alt="Remix" /></a>
 
 ![Sample Image](documentation/figma/Image-1.png)
 ![Sample Image](documentation/figma/Image-2.png)
